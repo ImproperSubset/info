@@ -6,4 +6,4 @@ The WRUS Coding Activity is an extracurricular activty whose purpose is to suppo
 
 * [Google's Colaboratory](https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb) provides Jupyter Python notebooks integrated with Google Drive. This is a way to get a Python environment up and running in the browser without having to install any software. You can get started by going to Google Drive, selecting File|New|More...|Google Colaboratory.
 
-** [101 Python Exercises](https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb) is a Colaboratory notebook with some basic Python exercises. Completing the exercises demonstrates insight and understanding of Python fundamentals.
+  * [101 Python Exercises](https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb) is a Colaboratory notebook with some basic Python exercises. Completing the exercises demonstrates insight and understanding of Python fundamentals.
